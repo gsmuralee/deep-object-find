@@ -1,6 +1,6 @@
 {
   "name": "deep-object-find",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "gets and sets values of objects nested deeply.",
   "main": "index.js",
   "scripts": {
