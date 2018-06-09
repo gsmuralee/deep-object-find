@@ -1,0 +1,21 @@
+{
+  "name": "deep-object-find",
+  "version": "1.0.0",
+  "description": "gets and sets values of objects nested deeply.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "deep",
+    "find",
+    "nested",
+    "keys"
+  ],
+  "author": "gsmuralee",
+  "license": "MIT",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^5.2.0"
+  }
+}
